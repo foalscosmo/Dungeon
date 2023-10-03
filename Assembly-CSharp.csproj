@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{df9cae9e-48cb-8730-a5a1-0ebe632042fc}</ProjectGuid>
+    <ProjectGuid>{60d41a60-2179-8271-8f78-1f3b28419d18}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -53,31 +53,22 @@
      <Compile Include="Assets/Scripts/IMovable.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Cartoon Heroes/Character Prefabs/Female" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_3/3D" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Metal" />
      <Folder Include="Assets/Cartoon Heroes/Character Prefabs" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/PREFABS/Singles" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_DirtyGround" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MVILLAGE_LEGACY" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Legs_3" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/SCENES/MVillage_WellsProps_Demo" />
      <Folder Include="Assets/Scenes" />
      <Folder Include="Assets/Cartoon Heroes/Scenes" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Water/Footsteps_Water_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MODELS" />
      <Folder Include="Assets/Cartoon Heroes/Scripts/SetCharacter" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1" />
@@ -85,40 +76,29 @@
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MATS/BASE" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_1" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Mud/Footsteps_Mud_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_3" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_2" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Torsos" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/SCENES/MVillage_WellsProps_Prefabs" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MATS/Terrain" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Run" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads/Head_3" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/PREFABS" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Legs" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Mud" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 2" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Tile" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/SCENES" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures" />
@@ -128,30 +108,17 @@
      <Folder Include="Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk" />
      <Folder Include="Assets/Footsteps - Essentials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Base Legs" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MVILLAGE_LEGACY/Foliage/Mods" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Heads/Head_1" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Snow" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Materials" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MVILLAGE_LEGACY/Foliage/Mats" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/PREFABS/Consolidated" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Heads/Head_3" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Snow/Footsteps_Snow_Jump" />
      <Folder Include="Assets/Footsteps - Essentials/Footsteps_Gravel" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Grass" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Sand/Footsteps_Sand_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_4/3D" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Leaves" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Water" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Heads" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Grass/Foley_Grass" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_3/Textures" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3" />
@@ -160,30 +127,20 @@
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Hairs" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2" />
      <Folder Include="Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Run" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Sand/Footsteps_Sand_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MVILLAGE_LEGACY/Foliage" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Wood/Footsteps_Wood_Run" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run" />
      <Folder Include="Assets/Cartoon Heroes/Character Prefabs/Male" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Mud/Footsteps_Mud_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Sand" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Rock/Footsteps_Rock_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2" />
      <Folder Include="Assets/Cartoon Heroes/Scripts" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MATS" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Tile/Footsteps_Tile_Run" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_1/Textures" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs" />
@@ -193,7 +150,6 @@
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Heads/Head_1" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Rock/Footsteps_Rock_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Female" />
      <Folder Include="Assets/Cartoon Heroes/Male" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2" />
@@ -202,64 +158,44 @@
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Animation Skeleton" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 1" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Water/Footsteps_Water_Run" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_1/3D" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Materials" />
      <Folder Include="Assets/Scripts" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Walk" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Heads/Head_2" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Mud/Footsteps_Mud_Run" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_2/Textures" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MVILLAGE_LEGACY/Foliage/Prfbs" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Torsos" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1" />
-     <Folder Include="Assets/ASTROFISH_GAMES" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 3" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_4/Textures" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Snow/Footsteps_Snow_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Weapons" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Heads/Head_3" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Rock/Footsteps_Rock_Run" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Wood/Footsteps_Wood_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Water/Footsteps_Water_Walk" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Heads/Head_2" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Run" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Wood" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Tile/Footsteps_Tile_Jump" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Wood/Footsteps_Wood_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Legs_2" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_3" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Legs/Legs_2" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Rock" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Animation Skeleton" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_4" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials" />
      <Folder Include="Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Snow/Footsteps_Snow_Run" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Sand/Footsteps_Sand_Run" />
      <Folder Include="Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2" />
-     <Folder Include="Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/MEDIEVAL_WELLS_PROPS/MATS/ASTROFISH" />
      <Folder Include="Assets/Cartoon Heroes/Weapons/Sword_1" />
-     <Folder Include="Assets/Footsteps - Essentials/Footsteps_Tile/Footsteps_Tile_Walk" />
      <Folder Include="Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Jump" />
      <Folder Include="Assets/Cartoon Heroes/Female/Textures/Heads/Head_2" />
      <Folder Include="Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials" />
@@ -513,10 +449,10 @@
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -885,79 +821,79 @@
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Cinemachine">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>/Users/foalscosmo/SolidGame/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>/Users/foalscosmo/Dungeon/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
