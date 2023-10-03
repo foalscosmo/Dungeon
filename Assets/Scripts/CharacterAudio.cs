@@ -4,8 +4,9 @@ public class CharacterAudio : MonoBehaviour
 {
     [SerializeField] private AudioSource characterAudio;
 
-    private void WalkingStepAudio()
+    public void WalkingStepAudio()
     {
         characterAudio.Play();
+        Debug.Log("aqvar");
     }
 }
