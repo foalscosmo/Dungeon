@@ -14,7 +14,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
    [Header("Character Animation Variables")]
    [SerializeField] Animator animator;
    private float _animationBlend;
-   private const float SpeedChangeRate = 10f;
+   private const float SpeedChangeRate = 11f;
    private static readonly int Speed = Animator.StringToHash("Speed");
 
    [Header("Character Move Variables")]
@@ -31,7 +31,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
    [Header("Character Rotation Variables")]
    private float _rotationVelocity;
    private float _targetRotation;
-   private const float SmoothRotation = 0.1f;
+   private const float SmoothRotation = 0.2f;
 
    private void Start()
    {
@@ -43,7 +43,6 @@ public class CharacterMovement : MonoBehaviour,IMovable
       CheckSpeed();
       SetAnimation();
       Dash();
-      var timer = Time.time;
    }
 
    private void FixedUpdate()
