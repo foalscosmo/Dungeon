@@ -14,7 +14,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
    [Header("Character Animation Variables")]
    [SerializeField] Animator animator;
    private float _animationBlend;
-   private const float SpeedChangeRate = 11f;
+   private const float SpeedChangeRate = 10f;
    private static readonly int Speed = Animator.StringToHash("Speed");
 
    [Header("Character Move Variables")]
