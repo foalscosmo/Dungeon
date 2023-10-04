@@ -14,7 +14,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
    [Header("Character Animation Variables")]
    [SerializeField] Animator animator;
    private float _animationBlend;
-   private const float SpeedChangeRate = 0.6f;
+   private const float SpeedChangeRate = 10f;
    private static readonly int Speed = Animator.StringToHash("Speed");
 
    [Header("Character Move Variables")]
@@ -43,6 +43,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
       CheckSpeed();
       SetAnimation();
       Dash();
+      var timer = Time.time;
    }
 
    private void FixedUpdate()
@@ -70,7 +71,7 @@ public class CharacterMovement : MonoBehaviour,IMovable
 
    private void SetAnimation()
    {
-      _animationBlend = Mathf.Lerp(_animationBlend, currentSpeed, SpeedChangeRate);
+      _animationBlend = Mathf.Lerp(_animationBlend, currentSpeed, Time.deltaTime * SpeedChangeRate);
       animator.SetFloat(Speed,_animationBlend);
    }
 
