@@ -7,6 +7,5 @@ public class CharacterAudio : MonoBehaviour
     public void WalkingStepAudio()
     {
         characterAudio.Play();
-        Debug.Log("aqvar");
     }
 }

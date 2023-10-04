@@ -5357,7 +5357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdc05068d2d315e4188eeea979f3cc33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainCamera: {fileID: 0}
+  mainCamera: {fileID: 963194228}
   characterController: {fileID: 8471361329887881366}
   characterInputs: {fileID: 8471361329887881367}
   animator: {fileID: 8471361329887881364}
@@ -5379,7 +5379,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 87d51f07abec0584d805bbe3708a7c71, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
-  m_Pitch: 1
+  m_Pitch: 1.1
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -5452,7 +5452,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 1.1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
