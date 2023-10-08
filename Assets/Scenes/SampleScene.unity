@@ -2804,11 +2804,11 @@ GameObject:
   - component: {fileID: 8418213724249658674}
   - component: {fileID: 8471361329887881364}
   - component: {fileID: 8471361329887881366}
-  - component: {fileID: 8471361329887881365}
   - component: {fileID: 8471361329887881368}
   - component: {fileID: 8471361329887881367}
   - component: {fileID: 8471361329887881370}
   - component: {fileID: 8471361329887881369}
+  - component: {fileID: 8471361329887881371}
   m_Layer: 0
   m_Name: Knight
   m_TagString: Untagged
@@ -5400,20 +5400,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &8471361329887881365
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8414951044632453850}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27568a3425b54e2683408c57947b90af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  characterMovement: {fileID: 8471361329887881368}
-  characterAudio: {fileID: 8471361329887881370}
 --- !u!143 &8471361329887881366
 CharacterController:
   m_ObjectHideFlags: 0
@@ -5467,12 +5453,9 @@ MonoBehaviour:
   mainCamera: {fileID: 963194228}
   characterController: {fileID: 8471361329887881366}
   characterInputs: {fileID: 8471361329887881367}
-  animator: {fileID: 8471361329887881364}
+  characterAnimator: {fileID: 8471361329887881371}
   currentSpeed: 0
-  walkSpeed: 1
-  dashSpeed: 15
-  dashDuration: 0.2
-  dashCoolDown: 2
+  moveSpeed: 1
 --- !u!82 &8471361329887881369
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5582,3 +5565,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterAudio: {fileID: 8471361329887881369}
+--- !u!114 &8471361329887881371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8414951044632453850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 960261b5ca0d347f9a1de02fcc62a44b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 8471361329887881364}

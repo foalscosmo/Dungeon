@@ -48,8 +48,13 @@
      <Compile Include="Assets/Scripts/CharacterMovement.cs" />
      <Compile Include="Assets/Cartoon Heroes/Scripts/SetCharacter/SetCharacter.cs" />
      <Compile Include="Assets/Scripts/CharacterAudio.cs" />
-     <Compile Include="Assets/Scripts/Knight.cs" />
+     <Compile Include="Assets/Scripts/Ability.cs" />
+     <Compile Include="Assets/Scripts/DirectSkill.cs" />
      <Compile Include="Assets/Scripts/CharacterInputs.cs" />
+     <Compile Include="Assets/Scripts/MassiveSkill.cs" />
+     <Compile Include="Assets/Scripts/AbilityHolder.cs" />
+     <Compile Include="Assets/Scripts/CharacterAnimator.cs" />
+     <Compile Include="Assets/Scripts/DashSkill.cs" />
      <Compile Include="Assets/Scripts/IMovable.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/Cartoon Heroes/Character Prefabs/Female" />
