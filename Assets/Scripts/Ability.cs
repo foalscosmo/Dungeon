@@ -6,7 +6,7 @@ public class Ability : MonoBehaviour
     public float CoolDownTime => abilityStats.CoolDownTime;
     public float ActiveTime => abilityStats.ActiveTime;
 
-    public string Name => abilityStats.Name ;
+    public string Name => abilityStats.Name;
 
  
 
