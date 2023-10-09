@@ -10,12 +10,9 @@ public class AbilityHolder : MonoBehaviour
     }
 
     [SerializeField] private Ability ability;
-
     private float _coolDownTime;
-
     private float _activeTime;
-
-    public KeyCode key;
+    [SerializeField] private KeyCode key;
 
     [SerializeField] private AbilityState state = AbilityState.Ready;
     
@@ -26,18 +23,18 @@ public class AbilityHolder : MonoBehaviour
             case AbilityState.Ready:
                 if (Input.GetKeyDown(key))
                 {
-                    ability.ActivateSkill(gameObject);
+                    ability.Activate();
                     state = AbilityState.Active;
-                    _activeTime = ability.activeTime;
+                    _activeTime = ability.ActiveTime;
                 }
                 break;
             case AbilityState.Active:
                 if (_activeTime > 0) _activeTime -= Time.deltaTime;
                 else
                 {
-                    ability.DisableSkill(gameObject);
+                    ability.Deactivate();
                     state = AbilityState.CoolDown;
-                    _coolDownTime = ability.coolDownTime;
+                    _coolDownTime = ability.CoolDownTime;
                 }
                 break;
             case AbilityState.CoolDown:

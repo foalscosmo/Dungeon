@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
+     <Compile Include="Assets\Scripts\AbilityStats.cs" />
      <Compile Include="Assets\Cartoon Heroes\Scripts\SetCharacter\SetCharacter.cs" />
      <Compile Include="Assets\Scripts\CharacterAudio.cs" />
      <Compile Include="Assets\Scripts\Ability.cs" />

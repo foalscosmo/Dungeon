@@ -1,18 +1,16 @@
 using UnityEngine;
 
-public class Ability : ScriptableObject
+public class Ability : MonoBehaviour
 {
-    public new string name;
-    public float coolDownTime;
-    public float activeTime;
+    [SerializeField] private AbilityStats abilityStats;
+    public float CoolDownTime => abilityStats.CoolDownTime;
+    public float ActiveTime => abilityStats.ActiveTime;
 
-    public virtual void ActivateSkill(GameObject parent)
-    {
-        
-    }
-    
-    public virtual void DisableSkill(GameObject parent)
-    {
-        
-    }
+    public string Name => abilityStats.Name;
+
+ 
+
+    public virtual void Activate(){}
+   
+    public virtual void Deactivate(){}
 }

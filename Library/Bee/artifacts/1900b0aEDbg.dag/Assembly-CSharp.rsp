@@ -357,6 +357,7 @@
 "Assets/Cartoon Heroes/Scripts/SetCharacter/SetCharacter.cs"
 "Assets/Scripts/Ability.cs"
 "Assets/Scripts/AbilityHolder.cs"
+"Assets/Scripts/AbilityStats.cs"
 "Assets/Scripts/CharacterAnimator.cs"
 "Assets/Scripts/CharacterAudio.cs"
 "Assets/Scripts/CharacterInputs.cs"
